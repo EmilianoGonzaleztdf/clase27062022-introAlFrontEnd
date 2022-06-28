@@ -1,0 +1,24 @@
+h1 {
+  color: black;
+  font-size: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: Geneva;
+  text-align: justify;
+  background-color: grey;
+}
+h2 {
+  color: rgb(255, 0, 140);
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: Tahoma;
+  text-align: justify;
+  background-color: rgb(236, 236, 236);
+}
+p {
+  color: rgb(234, 0, 255);
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: sans-serif;
+  text-align: justify;
+  background-color: white;
+}
